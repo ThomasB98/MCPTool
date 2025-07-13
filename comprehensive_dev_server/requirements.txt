@@ -1,0 +1,16 @@
+-e git+https://github.com/modelcontextprotocol/python-sdk.git#egg=mcp
+psycopg2-binary
+PyMySQL
+pymongo
+SQLAlchemy
+plantuml
+pylint
+flake8
+mypy
+bandit
+radon
+boto3
+google-api-python-client
+azure-identity
+azure-mgmt-resource
+docker
